@@ -1,0 +1,9 @@
+.FootballDir{
+
+    &--home {
+        transform: scaleX(-1);
+    }
+    &--away{
+        transform: scaleX(-1);
+    }
+}
